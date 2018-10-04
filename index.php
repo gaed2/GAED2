@@ -187,7 +187,7 @@
         <div class="icon-logo"></div>
         <h2><span style="color:#25a44a;">ABOUT</span> GAED2</h2>
         <br>
-        <p>We are a singular force driving greater sustainability and economic efficiency in energy consumption. Leveraging on twenty years worth of industrial expertise in the energy supply business, combined with all the merits of blockchain technology, we cultivate an ecosystem that provides all the solutions you need for greater energy efficiency in one marketplace.</p><!--
+        <p>We are the first energy intelligence platform offering end-to-end solution.<br> A singular force driving greater sustainabilityand economic efficiency in energy consumption. Leveraging on twenty years worth of industrial expertise in the energy supply business, combined with all the merits of blockchain technology, we cultivate an ecosystem that provides all the solutions you need for greater energy efficiency in one marketplace.</p><!--
         <p>Energy supply today emphasizes sustainability, economic efficiency and reliability of energy systems. Improvements in efficiency, in particular, is important to alleviate the strain of electricity supply. Without them, the projected rise in final energy use would more than double. As we shift towards a decentralized, distributed electric grid, we are better able to balance supply and demand and increase stability of the system, and also gives us the right to choose more sensible, energy-efficient means of which we derive our electricity from.</p>
         <br>
         <p><span style="color:#fba919;">GAED2</span> is the first of such a platform in Southeast Asia that can help you make more informed choices in terms of energy-efficiency. GAED2 also hopes to provide transparency and traceability to the consumer within the domain of energy supply. Even if there are savings to be made, we understand it might be too much of a hassle to switch between suppliers. GAED2 wants to be the facilitator for consumers to adopt green energy practices by cutting through all these barriers. On top of these savings in your electricity bills, we will give you financial incentive to save energy with us. You just need to sit back while we take care of it.</p>-->
@@ -222,8 +222,8 @@
           <img src="img/icon-problem-1.png" alt="">
           <br><br>
           <h3>Wastage of Energy Consumption</h3>
-          <br>
-          <p>The world today is highly dependent on electricity and usage has been on a steady rise, posing a worry of unnecessary wastage of electricity consumption for many nations.</p>
+          <!--<br>
+          <p>The world today is highly dependent on electricity and usage has been on a steady rise, posing a worry of unnecessary wastage of electricity consumption for many nations.</p>-->
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -231,8 +231,8 @@
           <img src="img/icon-problem-2.png" alt="">
           <br><br>
           <h3>Rising Utility Costs</h3>
-          <br>
-          <p>Rising demands also lead to rising utility cost.</p>
+          <!--<br>
+          <p>Rising demands also lead to rising utility cost.</p>-->
         </div>
       </div>
       <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -240,8 +240,8 @@
           <img src="img/icon-problem-3.png" alt="">
           <br><br>
           <h3>Fragmented Market</h3>
-          <br>
-          <p>Most green solutions are scattered all over the world operating independently, and the market lacks a platform that can connect all of these solutions together, as well as connect them with consumers like us.</p>
+          <!--<br>
+          <p>Most green solutions are scattered all over the world operating independently, and the market lacks a platform that can connect all of these solutions together, as well as connect them with consumers like us.</p>-->
         </div>
       </div>
       <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
@@ -249,8 +249,8 @@
           <img src="img/icon-problem-4.png" alt="">
           <br><br>
           <h3>Environmental Pollution</h3>
-          <br>
-          <p>To keep up with the rising and unchecked demand of energy consumption, power stations have to produce more energy via fuel, leading to unnecessary environmental pollution.</p>
+          <!--<br>
+          <p>To keep up with the rising and unchecked demand of energy consumption, power stations have to produce more energy via fuel, leading to unnecessary environmental pollution.</p>-->
         </div>
       </div>
     </div>
@@ -264,8 +264,6 @@
     <div class="icon-logo"></div>
       <h2 style="color:#24a449;">Solution</h2>
       <br><br>
-      <h3>One Stop Energy Solution</h3>
-      <br>
       <p>From detecting energy savings to proposing energy solutions, GAED2 is a platform to cover it all.</p>
       <!--
       <p>Fundamentally, GAED2’s mission is to help consumers save costs while saving the earth a step at a time. We will be a one-stop shop for implementing energy-efficient solutions for end-users at different levels. We are also aware that the energy market is vast, but lacks a common, open marketplace to match supply with demand. Whether electricity suppliers have the latest technologies, most competitive services or simply excess energy to be utilised, GAED2 will be the facilitator for these parties to the respective areas of demand to achieve maximum productivity while minimizing wastage of energy and expenses.</p>
@@ -315,11 +313,7 @@
       <br><br>
       <div class="laptop-img wow fadeInUp"><img src="img/laptop.jpg" alt=""></div>
       <br><br>
-      <p>By detecting losses and providing alternatives to energy suppliers and hardware, the platform is able to implement improvements in energy consumption, leading to potential savings of up to 40%.</p>
-      <br>
-      <p>Using Machine Learning (ML), the platform targets energy-efficiency drive to detect areas of loss and inefficiency. This happens by predicting potential breakdowns and possible costs incurred, followed by prescribing solutions to tackling these problem areas. </p>
-      <br>
-      <p>For different levels of assessment, GAED2 offers a competitive fee across the market. By removing the guesswork out of supplier and retailer selection, GAED2’s strategic partnerships allow for discounted prices for equipment purchases with the use of GAED2 coins.</p>
+      <p>Using Machine Learning (ML), the platform targets energy-efficiency drive to detect areas of loss and inefficiency through a predictive and prescriptive procedure to tackle problem areas. In doing so, the platform is able to implement improvements in energy consumption with potential savings of up to 40%. For different levels of assessment, GAED2 offers a competitive fee across the market. By removing the guesswork out of supplier and retailer selection, GAED2’s strategic partnerships allow for discounted prices for equipment purchases with the use of GAED2 coins.</p>
       <!--
       <div class="row">
         <div class="col-md-6 col-sm-6 v-pad">
@@ -349,14 +343,9 @@
       </div>
       <div class="col-md-6 col-sm-12 v-pad">
         <h3>Enterprises and Consumers</h3>
-        <p>In some countries, like Malaysia, Germany and Singapore, all large enterprises are required to carry out an energy audit and repeat it every couple of years.The aim of the periodic energy audit is to ensure the building systems that consume a bulk of electricity like cooling systems continues to operate efficiently throughout its lifespan, allowing building owners to continuously reap the energy saving benefits. </p><br>
-		<p>Through the platform, we allow consumers to access these audit services that traditionally was only made available to businesses. Enterprise customers and consumers can use the tokens to purchase products, GAED2 services and subscription, pay electricity retailers and suppliers with GAED2 Tokens.</p><br><br>
+        <p>Through the platform, GAED2 is enabling not just large enterprises but also the everyday consumer to access energy audit services traditionally only available to businesses, extending into a previously untapped market. Everyone can use GAED2 tokens to purchase products, GAED2 services and subscription, and pay electricity retailers and suppliers.</p><br><br>
         <h3>Suppliers</h3>
-        <p>Suppliers can also opt to receive GAED2 tokens instead of fiat, of which they will enjoy a lower transaction fee. They can get guarantee of payment if they choose to lock in their customers with a smart contract with no possibility of a default, allowing them to operate their business without accounting for defaulting customers, manually initiating stoppage of services or handle customer accounts in person.</p><br>
-		<p>Suppliers include electricity retailers or suppliers, manufacturers who sell their products on the GAED2 platform.</p><br><br>
-        <h3>GAED2</h3>
-        <p>GAED2 will operate as an intermediary between the consumers or enterprises and the suppliers. Helping to perform payment settlement and fulfillment, GAED2 takes a percentage of all transactions that occur on the platform. Suppliers can also opt to receive GAED2 tokens instead of fiat, of which they will enjoy a lower transaction fee.</p><br>
-		<p>Smart contracts will be available on the platform, suppliers can opt to use smart contracts with features that reduces the need of human intervention will be charged a nominal fee in GAED2 tokens for each smart contract.</p>
+        <p>Electricity retailers or suppliers, manufacturers who sell their products on our platform enjoy a lower transaction fee when they choose to transact in GAED2 tokens. They can also get guarantee of payment if they choose to lock in their customers with a smart contract, operating their business with ease of mind without having to account for defaulting customers.</p><br><br>
       </div>
     </div>
   </div>
@@ -371,11 +360,11 @@
     <br><br>
     <div class="row">
       <div class="col-md-6 col-sm-12 v-pad">
-        <p>The GAED2 Token Sale will be conducted on the Ethereum blockchain. It will be built on the ERC20 Token standard, users will be able to store their GAED2 Tokens on an Ethereum wallet such as MyEtherWallet.</p>
+        <p>The GAED2 Token Sale will be conducted on the Ethereum blockchain. GAED2 is an ERC-20 token that allows payment based on smart contract managed deliverables, whereas ERC-721 tokens will be used for certification and quality verifications.</p>
         <br>
-        <p>The team will be allocated 20% of all GAED2 Tokens generated at the end of the token sale, a maximum of 112,000,000 GAED2 Tokens if the hard cap is reached. GAED2 Tokens will not be minable, no future tokens will be issued after the token sale, unsold tokens will be burnt at the end of the token sale.</p>
+        <p>The team will be allocated 20% of all GAED2 Tokens generated at the end of the token sale (maximum of 112,000,000 GAED2 Tokens if hard cap is reached). GAED2 Tokens will not be minable, no future tokens will be issued after the token sale, and all unsold tokens will be burnt at the end of the token sale.</p>
         <br>
-        <p>Participation in the public sale shall be limited to natural persons, each wallet which has been cleared pursuant to Know-Your-Customer (KYC) checks. KYC checks include proof of identity and residency.</p>
+        <p>Participation in the public sale shall be limited to natural persons, with each wallet cleared pursuant to Know-Your-Customer (KYC) checks including proof of identity and residency.</p>
       </div>
       <div class="col-md-6 col-sm-12 v-pad wow fadeInRight">
         <div style="overflow-x:auto;">
@@ -606,7 +595,7 @@ Media end ------------>
             <p>CEO/Founder</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/azhar-othman-8a56a71b/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div>     
@@ -619,7 +608,7 @@ Media end ------------>
             <p>COO/Co-Founder</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/roland-lim-359a5650/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -632,7 +621,7 @@ Media end ------------>
             <p>Energy Efficiency Specialist</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/aazizismail/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -661,7 +650,7 @@ Media end ------------>
             <p>Principal Engineer (Pakistan)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/imran-zafar-803b6b37/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -674,7 +663,7 @@ Media end ------------>
             <p>Principal Engineer  (Myanmar)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/phoebe-pyone-myat-7b039162/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -700,7 +689,7 @@ Media end ------------>
             <p>Lead Operations Engineer (Singapore)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/mun-hey-lim-9940b947/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -716,7 +705,7 @@ Media end ------------>
             <p>Lead Technical Engineer (Singapore)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/glen-mallari-7a0b6a23/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -729,7 +718,7 @@ Media end ------------>
             <p>Solar PV Specialist (Singapore)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/furqan-shamsudin-44106a119/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -742,7 +731,7 @@ Media end ------------>
             <p>Lead Design Engineer (Singapore)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/patrick-santillan-723469139/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -760,7 +749,7 @@ Media end ------------>
             <p>Legal Advisor</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/nizam-ismail-2a4090b/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div>     
@@ -773,7 +762,7 @@ Media end ------------>
             <p>Ex-Nominated Member of Parliament Singapore</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/azmoonahmad/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -786,12 +775,12 @@ Media end ------------>
             <p>Energy Advisor</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/dallon-kay-0068b83/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
       </div>
-	  <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+	    <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
         <div class="team-img"><img src="img/team_larry.jpg" alt=""></div>
         <div class="team-info">
           <div style="float:left; width:75%;">
@@ -799,7 +788,76 @@ Media end ------------>
             <p>CEO Enercon USA</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/larry-tangel-b4a1171/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+          <div style="clear:both;"></div>
+        </div> 
+      </div>
+    </div>
+    <div class="row wow fadeInUp">
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <div class="team-img"><img src="img/team-irwin.jpg" alt=""></div>
+        <div class="team-info">
+          <div style="float:left; width:75%;">
+            <h3>Irwin Chee</h3>
+            <p>Managing Consultant</p>
+          </div>
+          <div style="float:right;">
+            <a href="https://www.linkedin.com/in/irwinchee/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+          <div style="clear:both;"></div>
+        </div> 
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <div class="team-img"><img src="img/team-coco.jpg" alt=""></div>
+        <div class="team-info">
+          <div style="float:left; width:75%;">
+            <h3>Coco Ong</h3>
+            <p>Marketing Chief</p>
+          </div>
+          <div style="float:right;">
+            <a href="https://www.linkedin.com/in/coco-ong/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+          <div style="clear:both;"></div>
+        </div> 
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <div class="team-img"><img src="img/team-kim.jpg" alt=""></div>
+        <div class="team-info">
+          <div style="float:left; width:75%;">
+            <h3>Kimberly Chang</h3>
+            <p>Project Manager</p>
+          </div>
+          <div style="float:right;">
+            <a href="https://www.linkedin.com/in/kimberley-chang-8195a5140/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+          <div style="clear:both;"></div>
+        </div> 
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <div class="team-img"><img src="img/team-profile.jpg" alt=""></div>
+        <div class="team-info">
+          <div style="float:left; width:75%;">
+            <h3>Putra Sadli</h3>
+            <p>AI Developer</p>
+          </div>
+          <div style="float:right;">
+            <a href="" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+          <div style="clear:both;"></div>
+        </div> 
+      </div>
+    </div>
+    <div class="row wow fadeInUp">
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <div class="team-img"><img src="img/team-profile.jpg" alt=""></div>
+        <div class="team-info">
+          <div style="float:left; width:75%;">
+            <h3>Faizola Nordin</h3>
+            <p>AI Operations</p>
+          </div>
+          <div style="float:right;">
+            <a href="" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -820,11 +878,11 @@ Media end ------------>
         <h3>Follow us on</h3>
         <br>
         <ul class="social">
-          <li><a href="https://www.facebook.com/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-facebook" aria-hidden="true"></i></div></a></li>
-          <li><a href="#" target="_blank"><div class="social-icon"><i class="fa fa-instagram" aria-hidden="true"></i></div></a></li>
-          <li><a href="https://twitter.com/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-twitter" aria-hidden="true"></i></div></a></li>
-          <li><a href="https://t.me/wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-telegram" aria-hidden="true"></i></div></a></li>
-          <li><a href="https://medium.com/@wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-medium" aria-hidden="true"></i></div></a></li>
+          <li><a href="https://www.facebook.com/gaed2sg/?modal=admin_todo_tour" target="_blank"><div class="social-icon"><i class="fa fa-facebook" aria-hidden="true"></i></div></a></li>
+          <li><a href="https://www.instagram.com/gaed2sg/" target="_blank"><div class="social-icon"><i class="fa fa-instagram" aria-hidden="true"></i></div></a></li>
+          <li><a href="https://twitter.com/GAED2sg" target="_blank"><div class="social-icon"><i class="fa fa-twitter" aria-hidden="true"></i></div></a></li>
+          <li><a href="https://www.youtube.com/channel/UCzSo51sQ6nD7v6FRxmHLajg" target="_blank"><div class="social-icon"><i class="fa fa-youtube" aria-hidden="true"></i></div></a></li>
+          <li><a href="https://medium.com/@gaed2" target="_blank"><div class="social-icon"><i class="fa fa-medium" aria-hidden="true"></i></div></a></li>
         </ul>
       </div>
       <div class="col-md-8 col-ms-8 v-pad">
