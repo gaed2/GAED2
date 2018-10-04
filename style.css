@@ -400,6 +400,28 @@ td {
 	color:#fba919;
 }
 
+.mail-icon {
+	width:40px;
+	height:40px;
+	color:#fff;
+	background:#24a449;
+	border-radius:5px;
+	font-size:18px;
+	text-align:center;
+	padding-top:10px;
+	box-sizing:border-box;
+	float:left;
+	margin-right:15px;
+}
+
+.mail-link {
+	font-size: 30px;
+    color: #24a449;
+	font-weight: 700;
+	position: relative;
+	top:3px;
+}
+
 ul.social {list-style-type:none; padding-left:0px;}
 
 ul.social li {

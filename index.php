@@ -145,7 +145,6 @@
   <div class="home-container">
     <h1 class="wow fadeInUp">GAED <span style="color:#fff;">2</span></h1>
     <h2 style="color:#fff; text-transform:none; font-weight:400;" class="wow fadeInUp" data-wow-delay="0.3s">Autonomous Energy Intelligence On The Blockchain</h2>
-    <h3 class="wow fadeInUp" data-wow-delay="0.6s" style="text-transform:none; font-weight:400;">We are the first energy intelligence platform offering end-to-end solution</h3>
     <br><br>
     <p class="wow fadeInUp" data-wow-delay="0.6s">Public sale starting in:</p>
     <br>
@@ -187,7 +186,8 @@
         <div class="icon-logo"></div>
         <h2><span style="color:#25a44a;">ABOUT</span> GAED2</h2>
         <br>
-        <p>We are the first energy intelligence platform offering end-to-end solution.<br> A singular force driving greater sustainabilityand economic efficiency in energy consumption. Leveraging on twenty years worth of industrial expertise in the energy supply business, combined with all the merits of blockchain technology, we cultivate an ecosystem that provides all the solutions you need for greater energy efficiency in one marketplace.</p><!--
+        <h3>We are the first energy intelligence platform offering end-to-end solution.</h3>
+        <p>A singular force driving greater sustainabilityand economic efficiency in energy consumption. Leveraging on twenty years worth of industrial expertise in the energy supply business, combined with all the merits of blockchain technology, we cultivate an ecosystem that provides all the solutions you need for greater energy efficiency in one marketplace.</p><!--
         <p>Energy supply today emphasizes sustainability, economic efficiency and reliability of energy systems. Improvements in efficiency, in particular, is important to alleviate the strain of electricity supply. Without them, the projected rise in final energy use would more than double. As we shift towards a decentralized, distributed electric grid, we are better able to balance supply and demand and increase stability of the system, and also gives us the right to choose more sensible, energy-efficient means of which we derive our electricity from.</p>
         <br>
         <p><span style="color:#fba919;">GAED2</span> is the first of such a platform in Southeast Asia that can help you make more informed choices in terms of energy-efficiency. GAED2 also hopes to provide transparency and traceability to the consumer within the domain of energy supply. Even if there are savings to be made, we understand it might be too much of a hassle to switch between suppliers. GAED2 wants to be the facilitator for consumers to adopt green energy practices by cutting through all these barriers. On top of these savings in your electricity bills, we will give you financial incentive to save energy with us. You just need to sit back while we take care of it.</p>-->
@@ -262,8 +262,10 @@
 <section id="solution">
   <div class="container">
     <div class="icon-logo"></div>
-      <h2 style="color:#24a449;">Solution</h2>
+      <h2 style="color:#24a449;">Solution</h2>  
       <br><br>
+      <h3>The Platform: GAEDKeeper</h3>
+      <br>
       <p>From detecting energy savings to proposing energy solutions, GAED2 is a platform to cover it all.</p>
       <!--
       <p>Fundamentally, GAED2’s mission is to help consumers save costs while saving the earth a step at a time. We will be a one-stop shop for implementing energy-efficient solutions for end-users at different levels. We are also aware that the energy market is vast, but lacks a common, open marketplace to match supply with demand. Whether electricity suppliers have the latest technologies, most competitive services or simply excess energy to be utilised, GAED2 will be the facilitator for these parties to the respective areas of demand to achieve maximum productivity while minimizing wastage of energy and expenses.</p>
@@ -345,7 +347,7 @@
         <h3>Enterprises and Consumers</h3>
         <p>Through the platform, GAED2 is enabling not just large enterprises but also the everyday consumer to access energy audit services traditionally only available to businesses, extending into a previously untapped market. Everyone can use GAED2 tokens to purchase products, GAED2 services and subscription, and pay electricity retailers and suppliers.</p><br><br>
         <h3>Suppliers</h3>
-        <p>Electricity retailers or suppliers, manufacturers who sell their products on our platform enjoy a lower transaction fee when they choose to transact in GAED2 tokens. They can also get guarantee of payment if they choose to lock in their customers with a smart contract, operating their business with ease of mind without having to account for defaulting customers.</p><br><br>
+        <p>Electricity retailers, suppliers, or manufacturers who sell their products on our platform enjoy a lower transaction fee when they choose to transact in GAED2 tokens. They can also get guarantee of payment if they choose to lock in their customers with a smart contract, operating their business with ease of mind without having to account for defaulting customers.</p><br><br>
       </div>
     </div>
   </div>
@@ -870,11 +872,18 @@ Media end ------------>
 <!------------ Contact start ------------>
 <section id="contact">
   <div class="container">
-    <div class="icon-logo"></div>
-    <h2>Contact</h2>
+    <div class="row">
+      <div class="col-md-4 v-pad">
+        <div class="icon-logo"></div>
+        <h2>Contact</h2>
+      </div>
+      <div class="col-md-8 v-pad">
+        <div class="mail-icon"><i class="fa fa-envelope" aria-hidden="true"></i></div><a href="mailto:social@gaed2.com" class="mail-link">social@gaed2.com</a>
+      </div>
+    </div>
     <br><br><br>
     <div class="row">
-      <div class="col-md-4 col-ms-4 v-pad">
+      <div class="col-md-4 v-pad">
         <h3>Follow us on</h3>
         <br>
         <ul class="social">
@@ -885,7 +894,7 @@ Media end ------------>
           <li><a href="https://medium.com/@gaed2" target="_blank"><div class="social-icon"><i class="fa fa-medium" aria-hidden="true"></i></div></a></li>
         </ul>
       </div>
-      <div class="col-md-8 col-ms-8 v-pad">
+      <div class="col-md-8 v-pad">
         <h3>Don’t miss the latest news and updates</h3>
         <br>
         <div class="subscription-messages"></div>
