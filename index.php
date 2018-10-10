@@ -636,7 +636,7 @@ Media end ------------>
             <p>Principal Engineer (Bangladesh)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/atiqur-rahman-3346b9b5/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -678,7 +678,7 @@ Media end ------------>
             <p>Principal Engineer (Philippines)</p>
           </div>
           <div style="float:right;">
-            <a class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/dexter-carinugan-b063693a/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -827,7 +827,7 @@ Media end ------------>
         <div class="team-img"><img src="img/team-kim.jpg" alt=""></div>
         <div class="team-info">
           <div style="float:left; width:75%;">
-            <h3>Kimberly Chang</h3>
+            <h3>Kimberley Chang</h3>
             <p>Project Manager</p>
           </div>
           <div style="float:right;">
@@ -837,14 +837,14 @@ Media end ------------>
         </div> 
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <div class="team-img"><img src="img/team-profile.jpg" alt=""></div>
+        <div class="team-img"><img src="img/team-putra.jpg" alt=""></div>
         <div class="team-info">
           <div style="float:left; width:75%;">
             <h3>Putra Sadli</h3>
             <p>AI Developer</p>
           </div>
           <div style="float:right;">
-            <a href="" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/putra-sadli-319aaa29/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
@@ -852,14 +852,27 @@ Media end ------------>
     </div>
     <div class="row wow fadeInUp">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <div class="team-img"><img src="img/team-profile.jpg" alt=""></div>
+        <div class="team-img"><img src="img/team-faizola.jpg" alt=""></div>
         <div class="team-info">
           <div style="float:left; width:75%;">
             <h3>Faizola Nordin</h3>
             <p>AI Operations</p>
           </div>
           <div style="float:right;">
-            <a href="" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/faizolanordin/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+          <div style="clear:both;"></div>
+        </div> 
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <div class="team-img"><img src="img/team-ahmad.jpg" alt=""></div>
+        <div class="team-info">
+          <div style="float:left; width:75%;">
+            <h3>Ahmad Sholehin</h3>
+            <p>AI Technologist</p>
+          </div>
+          <div style="float:right;">
+            <a href="https://www.linkedin.com/in/ahmadsholehin/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
           <div style="clear:both;"></div>
         </div> 
